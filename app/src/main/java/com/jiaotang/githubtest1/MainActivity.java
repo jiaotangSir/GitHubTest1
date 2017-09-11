@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void clickButton(View view) {
-        Toast.makeText(this,"第一次上传",Toast.LENGTH_LONG).show();
+//        Toast.makeText(this,"第一次上传",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"第二次上传",Toast.LENGTH_LONG).show();
     }
 }
